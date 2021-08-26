@@ -2,13 +2,11 @@ package com.jbk.myapp.Exception;
 
 public class demo {
 	public static void main(String[] args) {
-		int a=10;
-		int b=0;
-
-
+//		int a=10;
+//		int b=0;
 		try
 		{
-			int res=a/b;
+			int res=450;
 			System.out.println(res);
 		}
 //		catch(Exception e) write code more specific to more general
